@@ -1,0 +1,86 @@
+[
+  {
+    "price": 105,
+    "category": "kitchen",
+    "stock": 0,
+    "size": "large",
+    "isWaterResistant": true
+  },
+  {
+    "price": 200,
+    "category": "kitchen",
+    "stock": 0,
+    "size": "medium",
+    "isWaterResistant": false
+  },
+  {
+    "price": 100,
+    "category": "kitchen",
+    "stock": 5,
+    "size": "small",
+    "isWaterResistant": true
+  },
+  {
+    "price": 100,
+    "category": "kitchen",
+    "stock": 2,
+    "size": "large",
+    "isWaterResistant": false
+  },
+  {
+    "price": 800,
+    "category": "bathroom",
+    "stock": 0,
+    "isElectric": true,
+    "voltage": 220
+  },
+  {
+    "price": 200,
+    "category": "bathroom",
+    "stock": 3,
+    "isElectric": false,
+    "voltage": 110
+  },
+  {
+    "price": 100,
+    "category": "bathroom",
+    "stock": 7,
+    "isElectric": true,
+    "voltage": 330
+  },
+  {
+    "price": 50,
+    "category": "bathroom",
+    "stock": 5,
+    "isElectric": false,
+    "voltage": 440
+  },
+  {
+    "price": 150,
+    "category": "livingroom",
+    "stock": 0,
+    "weight": 100,
+    "height": 200
+  },
+  {
+    "price": 100,
+    "category": "livingroom",
+    "stock": 1,
+    "weight": 200,
+    "height": 100
+  },
+  {
+    "price": 100,
+    "category": "livingroom",
+    "stock": 2,
+    "weight": 150,
+    "height": 150
+  },
+  {
+    "price": 300,
+    "category": "livingroom",
+    "stock": 3,
+    "weight": 120,
+    "height": 180
+  }
+]
