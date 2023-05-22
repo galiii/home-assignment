@@ -26,7 +26,7 @@ function App() {
       const stockResults = await Appliance.checkStockConcurrently({ appliances: applianceData, maxConcurrency: MAX_CONCURRENCY });
       setResults(stockResults);
     };
-
+    console.log("use effect")
     fetchData();
   }, []);
 
