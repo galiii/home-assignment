@@ -44,7 +44,10 @@ export abstract class Appliance {
     }
 
     public getAppliance(): string {
-        return `Appliance: id=${this.getItemId()} price=${this.getPrice()} category=${this.getCategory()} ??stock=${this.getStock()}`;
+        return `Appliance:  
+        Price=${this.getPrice()} 
+        Category=${this.getCategory()} 
+        Stock=${this.getStock()}`;
     }
 
     // Set
